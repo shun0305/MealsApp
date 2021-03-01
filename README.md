@@ -1,2 +1,2 @@
 # MEALS APP
-- ReactNative Appa
+- ReactNative App
